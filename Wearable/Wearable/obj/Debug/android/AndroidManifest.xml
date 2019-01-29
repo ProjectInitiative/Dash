@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="Wearable.Wearable" android:installLocation="preferExternal">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="11" />
+  <uses-feature android:name="android.hardware.type.watch" />
+  <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.VIBRATE" />
+  <uses-permission android:name="android.permission.WAKE_LOCK" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-feature android:name="android.hardware.location.gps" />
+  <uses-feature android:name="android.hardware.location.network" />
+  <application android:label="Dash" android:theme="@android:style/Theme.DeviceDefault" android:icon="@drawable/play" android:name="md56f5fe41128b6deee6af4e77ca6a78e65.MainApplication" android:allowBackup="true" android:debuggable="true">
+    <activity android:name="android.support.wearable.activity.ConfirmationActivity" />
+    <service android:name="md5de722ba4ba247432fcf591c00e33ef58.ServiceWorkout" />
+    <activity android:label="ActivityWearConfirmatoin" android:launchMode="singleTask" android:name="md5bbdda59a119c15ceadf9b70f8ebcc122.ActivityWearConfirmation" />
+    <activity android:label="ActivityWearHistory" android:name="md5bbdda59a119c15ceadf9b70f8ebcc122.ActivityWearHistory" />
+    <activity android:icon="@drawable/ic_launcher" android:label="Wearable" android:name="md5bbdda59a119c15ceadf9b70f8ebcc122.ActivityWearStart">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="ActivityWearWorkout" android:launchMode="singleTop" android:name="md5bbdda59a119c15ceadf9b70f8ebcc122.ActivityWearWorkout" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Wearable.Wearable.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.Wearable.Wearable" />
+      </intent-filter>
+    </receiver>
+    <meta-data android:name="android.support.VERSION" android:value="25.4.0" />
+    <uses-library android:name="com.google.android.wearable" android:required="false" />
+  </application>
+</manifest>

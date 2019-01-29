@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="Wearable.Wearable" android:installLocation="preferExternal">
+	<uses-sdk />
+	<uses-feature android:name="android.hardware.type.watch" />
+	<uses-permission android:name="android.permission.READ_PHONE_STATE" />
+	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.VIBRATE" />
+	<uses-permission android:name="android.permission.WAKE_LOCK" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	<application android:label="Dash" android:theme="@android:style/Theme.DeviceDefault" android:icon="@drawable/play">
+		<activity android:name="android.support.wearable.activity.ConfirmationActivity" />
+	</application>
+</manifest>

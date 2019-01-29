@@ -1,0 +1,1 @@
+<android.support.wearable.view.WearableRecyclerView android:layout_width="match_parent" android:layout_height="match_parent" android:id="@+id/wrv_multi_view" xmlns:android="http://schemas.android.com/apk/res/android" />

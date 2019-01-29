@@ -1,0 +1,12 @@
+Newtonsoft.Json
+Plugin.CurrentActivity
+Plugin.Geolocator.Abstractions
+Plugin.Geolocator
+Plugin.Permissions.Abstractions
+Plugin.Permissions
+Remotion.Linq
+System.Runtime.CompilerServices.Unsafe
+System.Runtime
+Xamarin.Android.Support.Annotations
+Xamarin.Android.Support.Compat
+Xamarin.Android.Support.Core.Utils

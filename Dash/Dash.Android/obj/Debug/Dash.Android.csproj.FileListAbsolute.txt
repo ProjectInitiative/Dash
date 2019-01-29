@@ -1,0 +1,135 @@
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\bin\Debug\Dash.Android.dll
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\bin\Debug\Dash.Android.pdb
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\bin\Debug\Dash.Android.apk
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\bin\Debug\Dash.Android-Signed.apk
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\bin\Debug\Dash.dll
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\bin\Debug\Realm.DataBinding.dll
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\bin\Debug\Realm.dll
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\bin\Debug\Realm.Sync.dll
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\bin\Debug\Remotion.Linq.dll
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\bin\Debug\Dash.pdb
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\bin\Debug\Realm.xml
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\bin\Debug\Realm.DataBinding.pdb
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\bin\Debug\Realm.Sync.pdb
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\bin\Debug\Realm.Sync.xml
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\bin\Debug\Remotion.Linq.xml
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\obj\Debug\Dash.Android.csprojResolveAssemblyReference.cache
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\obj\Debug\Dash.Android.dll
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\obj\Debug\Dash.Android.pdb
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\obj\Debug\android\bin\Dash.Android.apk
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\obj\Debug\res\layout\main.xml
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\obj\Debug\res\values\strings.xml
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\obj\Debug\R.cs.flag
+C:\Users\KPZAK\Documents\Visual Studio 2017\Projects\Dash\Dash\Dash.Android\obj\Debug\uploadflags.txt
+C:\Users\KPZAK\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Dash.Android.dll.config
+C:\Users\KPZAK\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Dash.Android.dll
+C:\Users\KPZAK\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Dash.Android.pdb
+C:\Users\KPZAK\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Dash.Android.apk
+C:\Users\KPZAK\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Dash.Android-Signed.apk
+C:\Users\KPZAK\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KPZAK\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Remotion.Linq.dll
+C:\Users\KPZAK\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KPZAK\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KPZAK\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Remotion.Linq.xml
+C:\Users\KPZAK\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KPZAK\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\Dash.Android.csproj.CoreCompileInputs.cache
+C:\Users\KPZAK\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\Dash.Android.dll
+C:\Users\KPZAK\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\Dash.Android.pdb
+C:\Users\KPZAK\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\android\bin\Dash.Android.apk
+C:\Users\KPZAK\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\res\layout\main.xml
+C:\Users\KPZAK\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\res\values\strings.xml
+C:\Users\KPZAK\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\KPZAK\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\KPZAK\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\KPZAK\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\KPZAK\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\KPZAK\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\R.cs.flag
+C:\Users\KPZAK\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\uploadflags.txt
+C:\Users\KPZAK\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\Dash.Android.csprojResolveAssemblyReference.cache
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Dash.Android.dll.config
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Dash.Android.dll
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Dash.Android.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Dash.Android.apk
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Dash.Android-Signed.apk
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Plugin.Geolocator.dll
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Plugin.Permissions.dll
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Remotion.Linq.dll
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Plugin.Geolocator.xml
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Plugin.Geolocator.dll.mdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Plugin.Permissions.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Plugin.Permissions.xml
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Remotion.Linq.xml
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\Dash.Android.csprojResolveAssemblyReference.cache
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\Dash.Android.csproj.CoreCompileInputs.cache
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\Dash.Android.csproj.CopyComplete
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\Dash.Android.dll
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\Dash.Android.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\android\bin\Dash.Android.apk
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\res\layout\main.xml
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\res\values\strings.xml
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\R.cs.flag
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\uploadflags.txt
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Dash.Android.dll
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Microsoft.CSharp.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Mono.Android.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\mscorlib.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\System.Core.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\System.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\System.IO.Compression.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\System.Xml.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\System.Numerics.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\Mono.Security.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\linksrc\Microsoft.CSharp.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\linksrc\Plugin.Geolocator.Abstractions.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\linksrc\Plugin.Permissions.Abstractions.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\linksrc\System.Core.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\linksrc\System.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\linksrc\Dash.Android.dll.mdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\linksrc\Plugin.Geolocator.dll.mdb
+C:\Users\KyleP\Google Drive\Programming\MyProjects\CSharp\Dash\Dash\Dash.Android\obj\Debug\linksrc\Plugin.Permissions.dll.mdb
